@@ -35,7 +35,8 @@ Access the project via this [link](https://layely-app-host.vercel.app/), or down
 First, clone the portfolio Repository to your local machine:
 
 ```bash
-
+git clone https://github.com/anugyamehrotra/layely.app.git
+cd layely.app
 ```
 ---
 
