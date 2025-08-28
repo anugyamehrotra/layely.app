@@ -49,7 +49,6 @@ cd layely.app
 - Fully in-browser processing — no uploads or accounts required.
 
 
-
 ### 🎨 2. One-Click Preset Filters
 - Apply a wide set of presets (e.g., **1977, Amaro, Earlybird, Toaster, Valencia, Walden, Clarendon, Aden, Brannan, Gingham, Lofi, Maven, Perpetua, Reyes, Brooklyn, Hudson, Inkwell**, and more).  
 - Mix presets with manual adjustments to craft custom looks.
