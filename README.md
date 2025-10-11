@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/fb73934d-88f1-4e3f-a4f2-3bf6a039ff18" alt="layely logo" width="40" height="40" style="position: relative; top: 6px;" /> layely.app
 
-A personalized sample project of **an interactive photo filter app** with **dynamic image editing effects** for the Web Dev NP Hacks room.
+layely-app: an interactive photo filter app that lets users apply **dynamic image effects** and experiment with **custom visuals** in real time.
 
 A dynamic photo filter web app that allows users to adjust brightness, contrast, saturation, and warmth, as well as apply preset filters in real time. Built with semantic HTML, CSS, vanilla JavaScript, JSON, and jQuery, it offers a simple interface for experimenting with image effects directly in the browser.
 
@@ -61,7 +61,7 @@ cd layely.app
 ---
 
 ## 👩‍💻 Created for Educational Use
-This project is intended as a sample starting point for beginners in the Web Dev track of NP Hacks. Students are encouraged to expand on it and make it their own!
+I built this project as a way to explore creative coding and interactive visuals. <br>It started as a simple idea but grew into a space to experiment with filters, image effects, and real-time editing — something I could keep improving and make my own.
 
 To view/modify all Figma elements found in this project, you may find the elements here at [layely.app Template](https://www.figma.com/design/Arka2FI265dJMnV9GfEurs/layely.app-project-figma-template?node-id=0-1&p=f) 
 
