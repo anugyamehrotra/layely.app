@@ -23,7 +23,7 @@ A dynamic photo filter web app that allows users to adjust brightness, contrast,
 ---
 
 # Discover Here
-<img width="740" height="480" alt="layely app_webdev_img2_project3" src="https://github.com/user-attachments/assets/c731f13e-ebe8-4b26-b01a-c2749b61cb06" />  
+<img src="https://github.com/user-attachments/assets/c731f13e-ebe8-4b26-b01a-c2749b61cb06" />  
 
 Follow these steps to get the Note It project up and running locally or online:  
 <br>
